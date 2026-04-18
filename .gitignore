@@ -1,0 +1,11 @@
+/.git_backup_outer
+/.git_old_*
+/.git_reset_backup_*
+
+# Nested Next.js app
+/Tipjar_web/node_modules/
+/Tipjar_web/.next/
+/Tipjar_web/out/
+/Tipjar_web/.vercel/
+/Tipjar_web/.env*.local
+/Tipjar_web/*.tsbuildinfo

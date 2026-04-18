@@ -13,8 +13,7 @@ export default function Home() {
           <p className="eyebrow">On-chain tipping</p>
           <h1>TipJar</h1>
           <p className="hero-text">
-            간단하고 깔끔한 웹3 팁 페이지. 잔액 확인, 팁 전송, 최근 기록을 한
-            화면에서 확인합니다.
+            잔액 확인, 팁 전송, 최근 기록을 한 화면에서 확인합니다.
           </p>
         </div>
         <div className="hero-actions">
